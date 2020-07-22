@@ -8,5 +8,4 @@ A sample app using firebase for authentication (Sign In, Reset Password, Sign Ou
   <img src="art/02.jpg" width="300" style="border-radius: 15px">
   <img src="art/03.jpg" width="300" style="border-radius: 15px">
   <img src="art/03.jpg" width="300" style="border-radius: 15px">
-  <img src="art/gif.gif" width="300">
 </span>
